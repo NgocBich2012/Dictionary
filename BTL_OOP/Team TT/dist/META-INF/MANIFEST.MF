@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.7
+Created-By: 1.8.0_171-b11 (Oracle Corporation)
+Class-Path: lib/${libs.FreeTTS.classpath} lib/${libs.Synthetica.classp
+ ath} lib/cmu_time_awb.jar lib/cmu_us_kal.jar lib/cmudict04.jar lib/cm
+ ulex.jar lib/cmutimelex.jar lib/en_us.jar lib/freetts-jsapi10.jar lib
+ /freetts.jar lib/mbrola.jar lib/synthetica.jar lib/syntheticaBatik.ja
+ r lib/syntheticaPlain.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: dictionary1.Dictionary1
+
